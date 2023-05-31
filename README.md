@@ -13,7 +13,7 @@ When not in use, each scooter will report its location every five minutes. This 
 Both tables contain a large number of records, so think carefully about what data you need to pull in a given query.
 
 Start with addressing these questions:
-1. SUMDs can provide alternative transportation and provide "last mile" access to public transit. How often are trips starting near public transit hubs? You can download a dataset of bus stop locations from https://data.nashville.gov/Transportation/Regional-Transportation-Authority-Bus-Stops/p886-fnbd.
+SUMDs can provide alternative transportation and provide "last mile" access to public transit. How often are trips starting near public transit hubs? You can download a dataset of bus stop locations from https://data.nashville.gov/Transportation/Regional-Transportation-Authority-Bus-Stops/p886-fnbd.
 
 Deliverables:
 At the conclusion of this project, your group should deliver a presentation which addresses the following points:
